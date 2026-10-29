@@ -26,8 +26,8 @@ University of Science, VNU-HCM (HCMUS)
 -Preparing for a career in the semiconductor industry
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/tu%E1%BA%A5n-nghi-l%C3%BD-76095b425/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0okfWA%2FFShefjfF5oJ4ZeA%3D%3D
-Email: lytuannghi712@gmail.com
+-LinkedIn: https://www.linkedin.com/in/tu%E1%BA%A5n-nghi-l%C3%BD-76095b425/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0okfWA%2FFShefjfF5oJ4ZeA%3D%3D
+-Email: lytuannghi712@gmail.com
 
 <!--
 **lytuannghi/lytuannghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
